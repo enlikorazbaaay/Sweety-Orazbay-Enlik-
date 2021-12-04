@@ -1,0 +1,114 @@
+.header{
+	width: 100%;
+	top: 0;
+	left: 0;
+	z-index: 1000; 
+	background-color: red;
+}
+.header_dates{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.links{
+	color: white;
+	text-decoration: none;
+	margin-left: 50px;
+}
+.hero_data{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.img{
+	width: 50%;
+}
+.text{
+	width: 45%;
+	color: red;
+}
+.title{
+	font-weight: 700;
+	font-size: 30px;
+	margin-bottom: 30px;
+}
+.subtitle{
+	font-weight: 500;
+	font-size: 24px;
+	margin-bottom: 15px;
+}
+
+.text p{
+	font-size: 18px;
+}
+.btn{
+	padding: 10px 30px;
+	background-color: red;
+	color: white;
+}
+.imgs img{
+	height: 50%;
+	width: 115%;
+}
+.titleh{
+	font-weight: 700;
+	font-size: 48px;
+	margin-bottom: 25px;
+}
+.name{
+	font-weight: 600;
+	font-size: 30px;
+	margin-bottom: 10px;
+}
+.flex_part{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.part{
+	width: 30%;
+	padding: 15px;
+	box-shadow: 5px 5px 10px 1px gray;
+	text-align: center;
+	border-radius: 18px;
+}
+
+.part_text{
+	color: red;
+	font-size: 20px;
+	margin-bottom: 25px;
+}
+.dates h1{
+	text-align: center;
+	margin-bottom: 50px;
+	color: red;
+}
+.flex_footer_parts{
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	color: red;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.t{
+	display: flex;
+
+	justify-content: start;
+}
+.intro_inner h1, .home_inner{
+	text-align: center;
+}
+.flexs_parts{
+	display: flex;
+	justify-content: start;
+}
+.parts{
+	width: 32%;
+	padding: 15px;
+	text-align: center;
+}
+.flexs{
+	display: flex;
+	justify-content: flex-start;
+}
